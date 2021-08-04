@@ -1,0 +1,14 @@
+{
+  "name": "atividade4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "video.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "Lucas Castro",
+  "license": "ISC"
+}
